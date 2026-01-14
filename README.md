@@ -1,4 +1,4 @@
-# Hi I'm Sara ✨ 
+# Hi, I'm Sara ✨ 
 🎓BCA student learning through hands on practice and real projects.<br>🧩 Focused on problem oriented solutions with practical use cases.<br>♿ Accessibility and clarity guide how each project is built. <br>🛠️ Actively improving core web development skills through practice.
 
 
